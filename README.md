@@ -1,4 +1,4 @@
-# turbo-astro-t3 (Cool name, btw)
+# turbo-astro-t3 (~Cool name, btw~)
 
 WIP
 
